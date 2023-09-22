@@ -8,3 +8,4 @@ This is a temporary text.
 ## Hey! My name is Bryle Flores.
 
 This is a temporary text once again.
+I'm a Multimedia artist who specializes in graphic design and motion graphics animation
