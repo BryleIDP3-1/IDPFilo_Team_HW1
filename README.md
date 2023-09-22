@@ -1,4 +1,4 @@
-# IDPFilo_Team_HW1 :muscle:
+# IDPFilo_Team_HW1 :ph:
 Welcome to our official bio of the IDPFilo Team!
 
 ## Hi! My name is Bernardo Macapagal.
