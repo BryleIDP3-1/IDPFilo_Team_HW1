@@ -5,7 +5,7 @@ Welcome to the official introduction of the IDPFilo Team, created by Bernardo an
 
 I am an Interactive Media Design student here at Fanshawe College. I was born in the Phillippines and lived most of my life in Saudi Arabia with my family. I have a lot of hobbies in the creative field such as doing art and photography.
 
-- Interests: Photography :camera:, Filmmaking :movie_camera: 
+- Interests: Photography :camera:, Filmmaking :movie_camera:, Designing :pencil:
 - Hobbies: Making Art :paintbrush:, Playing Video Games :joystick:, Tennis :tennis:
 - Goals: Become a Web Designer :desktop_computer:, a Graphic Designer :black_nib:, or a Web Developer :keyboard:
 
