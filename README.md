@@ -17,6 +17,8 @@ An interesting fact about me is that I have started creative freelancing and ind
  - YouTube Channel: https://www.youtube.com/c/AmazingBearProductions
  - Proudest Work, My Short Film: https://www.youtube.com/watch?v=eMADvtAH77E
 
+(c)BernardoMacapagalOfficial2023.
+
 ## Hey! My name is Bryle Flores.
 
 I'm a Multimedia artist who specializes in graphic design and motion graphics animation
