@@ -1,5 +1,5 @@
-# IDPFilo_Team_HW1 :PH:
-Welcome to the official introduction of the IDPFilo Team, created by Bernardo and Bryle! Here you can see a few details and facts about us with our interests and hobbies. Scroll down below to get to know us better and thanks for stopping by.
+# IDPFilo_Team_HW1 :philippines:
+Welcome to the official introduction of the IDPFilo Team, created by Bernardo and Bryle! Here you can see a few details and facts about us with our interests and hobbies. Scroll down below to get to know us better.
 
 ## Hi! My name is Bernardo Macapagal. :bear:
 
