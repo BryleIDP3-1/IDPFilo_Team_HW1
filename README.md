@@ -7,9 +7,9 @@ I am an Interactive Media Design student here at Fanshawe College. I was born in
 
 An interesting fact about me is that I have started creative freelancing and independent film making at the age of 13, doing design and photo work for clients, with the help of my dad.
 
-- Interests: Photography :camera:, Filmmaking :movie_camera:, Designing :pencil2:
-- Hobbies: Making Art :paintbrush:, Playing Video Games :joystick:, Tennis Activities :tennis:
-- Goals: Become a Web Designer :desktop_computer:, a Graphic Designer :black_nib:, or a Web Developer :keyboard:
+- __Interests__: Photography :camera:, Filmmaking :movie_camera:, Designing :pencil2:
+- __Hobbies__: Making Art :paintbrush:, Playing Video Games :joystick:, Tennis Activities :tennis:
+- __Goals__: Become a Web Designer :desktop_computer:, a Graphic Designer :black_nib:, or a Web Developer :keyboard:
 
 ### Bernardo's Portfolio Work
 
