@@ -36,6 +36,7 @@ An interesting fact about me is that I have started creative freelancing and ind
 
 
 __(c)BernardoMacapagalOfficial2023.__ & __(c)AmazingBearProdOfficial2023.__
+
 Created by Bernardo B. Macapagal, Jr.
 
 
