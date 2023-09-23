@@ -5,7 +5,7 @@ Welcome to the official introduction of the IDPFilo Team, created by Bernardo an
 
 I am an Interactive Media Design student here at Fanshawe College. I was born in the Phillippines and lived most of my life in Saudi Arabia with my family. I have a lot of hobbies in the creative field such as doing art and photography.
 
-<img src=/images/bernardo_cover_photo.jpg width=1280 height=720>
+<img src=/images/bernardo_cover_photo.jpg>
 
 An interesting fact about me is that I have started creative freelancing and independent film making at the age of 13, doing design and photo work for clients, with the help of my dad.
 
@@ -13,7 +13,7 @@ An interesting fact about me is that I have started creative freelancing and ind
 - __Hobbies__: Making Art :paintbrush:, Playing Video Games :joystick:, Tennis Activities :tennis:
 - __Goals__: Become a Web Designer :desktop_computer:, a Graphic Designer :black_nib:, or a Web Developer :keyboard:
 
-<img src=/images/company_photo.jpg width=1280 height=720>
+<img src=/images/company_photo.jpg>
 
 ### Bernardo's Portfolio Work
 
@@ -21,7 +21,7 @@ An interesting fact about me is that I have started creative freelancing and ind
  - YouTube Channel: https://www.youtube.com/c/AmazingBearProductions
  - Proudest Work, My Short Film: https://www.youtube.com/watch?v=eMADvtAH77E
 
-<img src=/images/shortfilm_bernardo.jpg width=1280 height=720>
+<img src=/images/shortfilm_bernardo.jpg>
 
 __(c)BernardoMacapagalOfficial2023.__
 
