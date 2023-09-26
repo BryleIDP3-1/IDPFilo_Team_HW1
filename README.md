@@ -32,7 +32,7 @@ An interesting fact about me is that I have started creative freelancing and ind
 <img src=/images/shortfilm_bernardo.jpg>
 
 
-### Interesting Facts About Bernardo
+### Interesting Facts About Bernardo :bulb:
 
 1. My favorite video game series is "Halo", especially "Halo 3 ODST.  :video_game:
 2. I love drawing doodles, art, and typography in my spare time. :pen:
