@@ -23,7 +23,7 @@ An interesting fact about me is that I have started creative freelancing and ind
 
 
 
-### Bernardo's Portfolio Work
+### Bernardo's Portfolio Work :notebook:
 
  - Facebook Page: https://www.facebook.com/AmazingBearProd
  - YouTube Channel: https://www.youtube.com/c/AmazingBearProductions
@@ -34,7 +34,7 @@ An interesting fact about me is that I have started creative freelancing and ind
 <img src=/images/shortfilm_bernardo.jpg>
 
 
-### Interesting Facts About Bernardo
+### Interesting Facts About Bernardo :bulb:
 
 
 __(c)BernardoMacapagalOfficial2023.__ & __(c)AmazingBearProdOfficial2023.__
