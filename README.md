@@ -17,7 +17,6 @@ An interesting fact about me is that I have started creative freelancing and ind
 - __Hobbies__: Making Art :paintbrush:, Playing Video Games :joystick:, Tennis Activities :tennis:
 - __Goals__: Become a Web Designer :desktop_computer:, a Graphic Designer :black_nib:, or a Web Developer :keyboard:
 
-Test
 
 <img src=/images/company_photo.jpg>
 
