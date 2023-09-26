@@ -45,13 +45,13 @@ __(c)BernardoMacapagalOfficial2023.__ & __(c)AmazingBearProdOfficial2023.__
 Created by Bernardo B. Macapagal, Jr.
 
 
-## Hey! My name is Bryle Flores.
+## Hey! My name is Bryle Flores.:star2:
 
-I'm a Multimedia designer who specializes in graphic design :computer: and illustrations :paintbrush:. I came from the Philippines and this is my first time going abroad. I'm taking up Interactive Media Design
+I'm a Multimedia designer who specializes in graphic design :computer: and illustrations :paintbrush:. I came from the Philippines and this is my first time going abroad. Right now, I'm taking up Interactive Media Design in Fanshawe College, London Ontario.
 
 <img src=/images/bryle_photo1.jpg>
 
-I enjoy joining art exhibits before when I was studying arts course :man_student:
+I enjoy joining art exhibits before when I was studying arts course :man_student: because I want to enhance my skills and I enjoy being with the art community :busts_in_silhouette:
 
 <img src=/images/bryle_photo2_exhibit.jpg>
 
@@ -59,14 +59,16 @@ I enjoy joining art exhibits before when I was studying arts course :man_student
 - Graphic Design: https://www.behance.net/brylliancePH
 - Illustrations: https://www.behance.net/brylliancy
 
-A preview of one of my artwork :framed_picture:
+A preview of one of my artwork.:framed_picture:
+ This was a commissioned project where I was tasked to do artworks for calendar for a bank. The idea was incorporating our traditional heroes with the new heroes of the COVID era. :mask: 
+
 
 <img src=/images/bryle_photo3_sample1.jpg>
 
 ### Interesting Facts About Bryle :white_check_mark:
-1. Corps Commander :policeman:
-2. Martial Arts :martial_arts_uniform:
-3. Singing :microphone:
+1. Corps Commander - I became a corps commander when I was in highschool :policeman:
+2. Martial Arts - I tried multiple martial arts like Taekwondo and Yaw-yan but what I enjoyed most is Jiu Jitsu :martial_arts_uniform:
+3. Singing - My parents used to be a performer in Japan, that's why our family always sings :microphone:
 
 
 __(c)BrylliancePH__
