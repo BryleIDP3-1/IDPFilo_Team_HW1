@@ -36,6 +36,9 @@ An interesting fact about me is that I have started creative freelancing and ind
 
 ### Interesting Facts About Bernardo :bulb:
 
+1. My favorite video game series is "Halo", especially "Halo 3 ODST. :video_game:
+2. I love drawing doodles, art, and typography in my spare time. :pen:
+3. Freelancing and business creation is one of my passions. :office:
 
 __(c)BernardoMacapagalOfficial2023.__ & __(c)AmazingBearProdOfficial2023.__
 
