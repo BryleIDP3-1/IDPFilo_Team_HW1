@@ -49,3 +49,8 @@ I'm a Multimedia designer who specializes in graphic design and illustrations. I
 I enjoy joining art exhibits before when I was studying arts course.
 
 <img src=/images/bryle_photo2_exhibit.jpg>
+
+### Bryle's Portfolio
+- Graphic Design: https://www.behance.net/brylliancePH
+- Illustrations: https://www.behance.net/brylliancy
+
