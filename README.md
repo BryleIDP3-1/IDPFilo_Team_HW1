@@ -42,4 +42,6 @@ Created by Bernardo B. Macapagal, Jr.
 
 ## Hey! My name is Bryle Flores.
 
-I'm a Multimedia artist who specializes in graphic design and motion graphics animation
+I'm a Multimedia designer who specializes in graphic design and illustrations. I came from the Philippines and this is my first time going abroad. I'm taking up Interactive Media Design
+
+<img src=/images/bryle_photo1.jpg>
