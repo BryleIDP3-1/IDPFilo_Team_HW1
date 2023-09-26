@@ -63,6 +63,12 @@ A preview of one of my artwork :framed_picture:
 
 <img src=/images/bryle_photo3_sample1.jpg>
 
+### Interesting Facts About Bryle :white_check_mark:
+1. Corps Commander :policeman:
+2. Martial Arts :martial_arts_uniform:
+3. Singing :microphone:
+
+
 __(c)BrylliancePH__
 
 Created by Bryle Flores
