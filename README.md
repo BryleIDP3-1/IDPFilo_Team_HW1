@@ -45,3 +45,7 @@ Created by Bernardo B. Macapagal, Jr.
 I'm a Multimedia designer who specializes in graphic design and illustrations. I came from the Philippines and this is my first time going abroad. I'm taking up Interactive Media Design
 
 <img src=/images/bryle_photo1.jpg>
+
+I enjoy joining art exhibits before when I was studying arts course.
+
+<img src=/images/bryle_photo2_exhibit.jpg>
