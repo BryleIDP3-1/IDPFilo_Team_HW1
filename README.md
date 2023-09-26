@@ -31,6 +31,7 @@ An interesting fact about me is that I have started creative freelancing and ind
 
 <img src=/images/shortfilm_bernardo.jpg>
 
+<<<<<<< Updated upstream
 
 ### Interesting Facts About Bernardo :bulb:
 
@@ -38,6 +39,9 @@ An interesting fact about me is that I have started creative freelancing and ind
 2. I love drawing doodles, art, and typography in my spare time. :pen:
 3. Freelancing and business creation is one of my passions. :office:
 
+=======
+### Interesting Facts About Bernardo
+>>>>>>> Stashed changes
 
 __(c)BernardoMacapagalOfficial2023.__ & __(c)AmazingBearProdOfficial2023.__
 
