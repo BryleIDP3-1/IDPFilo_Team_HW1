@@ -44,11 +44,11 @@ Created by Bernardo B. Macapagal, Jr.
 
 ## Hey! My name is Bryle Flores.
 
-I'm a Multimedia designer who specializes in graphic design and illustrations. I came from the Philippines and this is my first time going abroad. I'm taking up Interactive Media Design
+I'm a Multimedia designer who specializes in graphic design :computer: and illustrations :paintbrush:. I came from the Philippines and this is my first time going abroad. I'm taking up Interactive Media Design
 
 <img src=/images/bryle_photo1.jpg>
 
-I enjoy joining art exhibits before when I was studying arts course.
+I enjoy joining art exhibits before when I was studying arts course :man_student:
 
 <img src=/images/bryle_photo2_exhibit.jpg>
 
@@ -56,7 +56,7 @@ I enjoy joining art exhibits before when I was studying arts course.
 - Graphic Design: https://www.behance.net/brylliancePH
 - Illustrations: https://www.behance.net/brylliancy
 
-A preview of one of my artwork
+A preview of one of my artwork :framed_picture:
 
 <img src=/images/bryle_photo3_sample1.jpg>
 
