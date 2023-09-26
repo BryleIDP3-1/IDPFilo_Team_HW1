@@ -54,3 +54,11 @@ I enjoy joining art exhibits before when I was studying arts course.
 - Graphic Design: https://www.behance.net/brylliancePH
 - Illustrations: https://www.behance.net/brylliancy
 
+A preview of one of my artwork
+
+<img src=/images/bryle_photo3_sample1.jpg>
+
+__(c)BrylliancePH__
+
+Created by Bryle Flores
+
