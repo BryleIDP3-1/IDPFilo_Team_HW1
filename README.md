@@ -66,9 +66,9 @@ A preview of one of my artwork.:framed_picture:
 <img src=/images/bryle_photo3_sample1.jpg>
 
 ### Interesting Facts About Bryle :white_check_mark:
-:heavy_check_mark:1. :policeman: Corps Commander - I became a corps commander when I was in highschool 
-:heavy_check_mark:2. :martial_arts_uniform: Martial Arts - I tried multiple martial arts like Taekwondo and Yaw-yan but what I enjoyed most is Jiu Jitsu 
-:heavy_check_mark:3. :microphone: Singing - My parents used to be a performer in Japan, that's why our family always sings 
+1. :policeman: Corps Commander - I became a corps commander when I was in highschool :heavy_check_mark:
+2. :martial_arts_uniform: Martial Arts - I tried multiple martial arts like Taekwondo and Yaw-yan but what I enjoyed most is Jiu Jitsu :heavy_check_mark:
+3. :microphone: Singing - My parents used to be a performer in Japan, that's why our family always sings :heavy_check_mark:
 
 
 __(c)BrylliancePH__
