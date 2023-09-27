@@ -58,6 +58,7 @@ I enjoy joining art exhibits before when I was studying arts course :man_student
 ### Bryle's Portfolio
 - Graphic Design: https://www.behance.net/brylliancePH
 - Illustrations: https://www.behance.net/brylliancy
+- Video: https://www.behance.net/brylemotion
 
 A preview of one of my artwork.:framed_picture:
  This was a commissioned project where I was tasked to do artworks for calendar for a bank. The idea was incorporating our traditional heroes with the new heroes of the COVID era. :mask: 
