@@ -76,8 +76,7 @@ __(c)BrylliancePH__
 
 Created by Bryle Flores
 
-## Installation
-TODO: Describe the installation process
+
 
 
 
