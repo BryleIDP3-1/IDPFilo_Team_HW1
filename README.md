@@ -7,7 +7,7 @@ I am an Interactive Media Design student here at Fanshawe College. I was born in
 
 
 
-<img src=/images/bernardo_cover_photo.jpg>
+![Bernardo's Cover Photo](/images/bernardo_cover_photo.jpg)
 
 
 
@@ -19,7 +19,7 @@ An interesting fact about me is that I have started creative freelancing and ind
 
 
 
-<img src=/images/company_photo.jpg>
+![Bernardo's Company Poster](/images/company_photo.jpg)
 
 
 
@@ -31,7 +31,7 @@ An interesting fact about me is that I have started creative freelancing and ind
 
 
 
-<img src=/images/shortfilm_bernardo.jpg>
+![Bernardo's Short Film](/images/shortfilm_bernardo.jpg)
 
 
 ### Interesting Facts About Bernardo :bulb:
@@ -77,21 +77,27 @@ __(c)BrylliancePH__
 Created by Bryle Flores
 
 
-
-
-
-## Contributing
+## Contributing :bookmark:
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-TODO: Write history
+## History :clock8:
+__Created on September 23, 2023__
 
-## Credits
-TODO: Write credits
+Updated on the following days:
+- September 26, 2023
+- September 29, 2023
+- October 01, 2023
 
-## License
-MIT
+## Credits 	:office_worker:
+__Officially Published by:__
+
+Bernardo B. Macapagal, Jr.
+Timothy Bryle Flores
+
+## License :page_facing_up:
+__MIT License__
+Year 2023
