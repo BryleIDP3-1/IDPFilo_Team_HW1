@@ -47,24 +47,24 @@ Created by Bernardo B. Macapagal, Jr.
 
 ## Hey! My name is Bryle Flores.:star2:
 
-I'm a Multimedia designer who specializes in graphic design :computer: and illustrations :paintbrush:. I came from the Philippines and this is my first time going abroad. Right now, I'm taking up Interactive Media Design in Fanshawe College, London, ON.
+I'm a Multimedia designer who specializes in graphic design :computer: and illustrations :paintbrush:. I came from the Philippines and this is my first time going abroad and wants to learn about developing websites and apps. Right now, I'm taking up Interactive Media Design in Fanshawe College, London, ON.
 
-<img src=/images/bryle_photo1.jpg>
+![Bryle's Profile Photo](images/bryle_photo1.jpg)
 
-I enjoy joining art exhibits before when I was studying arts course :man_student: because I want to enhance my skills and I enjoy being with the art community :busts_in_silhouette:
+I enjoyed joining art exhibits before when I was studying arts course :man_student: because I want to enhance my skills in art and being with the art community boost my self confidence. :busts_in_silhouette:
 
-<img src=/images/bryle_photo2_exhibit.jpg>
+![Bryle's Exhibit Photo](images/bryle_photo2_exhibit.jpg)
 
 ### Bryle's Portfolio :notebook:
-- Graphic Design: https://www.behance.net/brylliancePH
-- Illustrations: https://www.behance.net/brylliancy
-- Video: https://www.behance.net/brylemotion
+- [Graphic Design](https://www.behance.net/brylliancePH)
+- [Illustrations](https://www.behance.net/brylliancy)
+- [Video](https://www.behance.net/brylemotion)
 
-A preview of one of my artwork. :framed_picture:
- This was a commissioned project where I was tasked to do artworks for calendar for a bank. The idea was incorporating our traditional heroes with the new heroes of the COVID era. :mask: 
+Here's a preview of one of my artwork. :framed_picture:
+ This was a commissioned project of a bank in the Philippines where I was tasked to do art covers for their calendar. The concept of the artworks were highlighting the modern heroes (COVID frontliners), and the heroes from our history. :mask: 
 
 
-<img src=/images/bryle_photo3_sample1.jpg>
+![Bryle's Artwork for Landbank](images/bryle_photo3_sample1.jpg)
 
 ### Interesting Facts About Bryle :white_check_mark:
 1. :policeman: Corps Commander - I became a corps commander when I was in highschool :heavy_check_mark:
@@ -94,4 +94,4 @@ TODO: Write history
 TODO: Write credits
 
 ## License
-TODO: Write license
+MIT
